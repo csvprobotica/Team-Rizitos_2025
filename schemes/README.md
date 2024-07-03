@@ -1,4 +1,5 @@
 Electromechanical diagrams
 ====
 
-This directory must contain one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
+This directory contains a [`list of electronic components`](https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Listado%20de%20Componentes.png) in which each of the elements used are described.
+
