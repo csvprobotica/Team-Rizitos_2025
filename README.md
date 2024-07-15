@@ -1,7 +1,18 @@
+## RoboGenius WRO 2024
+The RoboGenius team is integrated by Francis Mojica, Flor Glaize and Fiorella Campos, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition.
+
 Engineering materials
 ====
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
+
+Materials to build our robot:
+* 1 Lego Inventor Large Hub 88016
+* 1 Rechargeable battery 7.4V 2100mAh
+* 2 Medium Angular Motor 88018
+* 2 Technic Distance Sensor 45604
+* 2 Technic Color Sensor 45605
+
 
 ## Content
 
