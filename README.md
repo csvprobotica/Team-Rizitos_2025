@@ -24,7 +24,7 @@ Materials to build our robot:
 * [`v-photos`](https://github.com/csvprobotica/RoboGenius/tree/main/v-photos) contains 6 photos of the vehicle (from every side, from top and bottom).
 * [`video`](https://github.com/csvprobotica/RoboGenius/tree/main/video) contains the video.mp4 file with the robot driving demonstration.
 
-## Strategy and Mobility
+## Mobility and Strategy of our Robot
 
 **Robot Description:**
 
