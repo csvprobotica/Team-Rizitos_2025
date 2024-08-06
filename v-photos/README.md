@@ -28,7 +28,7 @@ This directory contains photographs from all angles of the robot.
 
 ## Bottom
 <div style="text-align: center;">
-  <img src="hhttps://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Bottom.jpg" alt="Texto alternativo" width="400"/>
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Bottom.jpg" alt="Texto alternativo" width="400"/>
 </div>
 
 
