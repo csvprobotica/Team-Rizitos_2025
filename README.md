@@ -30,6 +30,10 @@ Materials to build our robot: [`list of electronic components`](https://github.c
 
 ## Mobility and Strategy of our Robot
 
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/Robot.jpg" alt="Texto alternativo" width="700"/>
+</div>
+
 **Robot Description:**
 
 Our robot is an innovative autonomous machine designed for navigation and obstacle avoidance in its environment. It is equipped with a series of sensors and motors that allow it to detect and respond to various stimuli along its path.
