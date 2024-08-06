@@ -2,7 +2,7 @@
 The RoboGenius team is integrated by Francis Mojica, Flor Glaize and Fiorella Campos, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition.
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/t-photos/RoboGenius-Normal.jpg" alt="Texto alternativo" width="300"/>
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/t-photos/RoboGenius-Normal.jpg" alt="Texto alternativo" width="400"/>
 </div>
 
 ## Introduction
@@ -31,7 +31,7 @@ Materials to build our robot: [`list of electronic components`](https://github.c
 ## Mobility and Strategy of our Robot
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/Robot.jpg" alt="Texto alternativo" width="700"/>
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/Robot.jpg" alt="Texto alternativo" width="400"/>
 </div>
 
 **Robot Description:**
