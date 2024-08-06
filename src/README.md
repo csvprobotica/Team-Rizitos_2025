@@ -9,12 +9,12 @@ All artifacts required to resolve dependencies and build the project must be inc
 The programming of the robot is done with the Lego Mindstorms application 10.5.0 by means of blocks.
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/src/MindStorms_Software.png" alt="Texto alternativo" width="400"/>
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/src/MindStorms_Software.png" alt="Texto alternativo" width="700"/>
 </div>
 
 ## Code Blocks
 Part of the block system programming with the Lego Mindstorms application is presented.
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/t-photos/RoboGenius-Normal.jpg" alt="Texto alternativo" width="400"/>
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/src/Block_Program.png" alt="Texto alternativo" width="700"/>
 </div>
