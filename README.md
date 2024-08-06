@@ -1,6 +1,10 @@
 ## RoboGenius WRO 2024
 The RoboGenius team is integrated by Francis Mojica, Flor Glaize and Fiorella Campos, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition.
 
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/t-photos/RoboGenius-Normal.jpg" alt="Texto alternativo" width="300"/>
+</div>
+
 ## Introduction
 _In the future engineers competition, our robot must demonstrate its ability to solve specific technical challenges. This includes navigating an obstacle course and executing precisely programmed tasks. Our robot must complete the tasks autonomously and meet the challenges of this year 2024._
 
