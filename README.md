@@ -13,7 +13,7 @@ Engineering materials
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
 
-Materials to build our robot:
+Materials to build our robot: [`list of electronic components`](https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Listado%20de%20Componentes_2.png)
 * 1 Lego Inventor Large Hub 88016
 * 1 Rechargeable battery 7.4V 2100mAh
 * 2 Medium Angular Motor 88018
