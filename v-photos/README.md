@@ -2,16 +2,35 @@ Vehicle's photos
 ====
 This directory contains photographs from all angles of the robot.
 ## Front
-![1](https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Front.jpg)
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Front.jpg" alt="Texto alternativo" width="400"/>
+</div>
+
 ## Back
-![2](https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Back.jpg)
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Back.jpg" alt="Texto alternativo" width="400"/>
+</div>
+
 ## Left
-![3](https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Left.jpg)
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Left.jpg" alt="Texto alternativo" width="400"/>
+</div>
+
 ## Right
-![4](https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Right.jpg)
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Right.jpg" alt="Texto alternativo" width="400"/>
+</div>
+
 ## Top
-![5](https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Top.jpg)
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Top.jpg" alt="Texto alternativo" width="400"/>
+</div>
+
 ## Bottom
-![6](https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Bottom.jpg)
+<div style="text-align: center;">
+  <img src="hhttps://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Bottom.jpg" alt="Texto alternativo" width="400"/>
+</div>
+
+
 
 
