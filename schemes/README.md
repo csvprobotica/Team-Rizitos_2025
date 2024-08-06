@@ -6,11 +6,11 @@ This directory contains a [`list of electronic components`](https://github.com/c
 ## List of Electronic Components
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Listado%20de%20Componentes.png" alt="Texto alternativo" width="550"/>
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Listado%20de%20Componentes.png" alt="Texto alternativo" width="700"/>
 </div>
 
 ## Wiring Diagram
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Diagrama%20de%20Conexi%C3%B3n.png" alt="Texto alternativo" width="550"/>
+  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Diagrama%20de%20Conexi%C3%B3n.png" alt="Texto alternativo" width="700"/>
 </div>
