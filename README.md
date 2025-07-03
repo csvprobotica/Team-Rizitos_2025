@@ -1,17 +1,16 @@
-## RoboGenius WRO 2024
-The RoboGenius team is integrated by Francis Mojica, Flor Glaize and Fiorella Campos, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition.
+## Team Rizitos WRO 2024
 
-<div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/t-photos/RoboGenius-Normal.jpg" alt="Texto alternativo" width="400"/>
-</div>
+We are **Team Rizitos**, a robotics team competing in the **Future Engineers Senior's category of the WRO**. Our group is made up of two seniors, **Flor Glaize and Francis Mojica** , and one junior, **Hebe Hernández**. Together, we combine creativity, teamwork, and technical skills to bring our robot to life.
+Our robot, also named **Rizitos**, is designed to complete 3 laps and overcome a variety of obstacles in the WRO Future Engineers Senior's course. We proudly represent **Colegio San Vicente de Paúl from Santiago de Veraguas, Panamá**.
 
-## Introduction
-_In the future engineers competition, our robot must demonstrate its ability to solve specific technical challenges. This includes navigating an obstacle course and executing precisely programmed tasks. Our robot must complete the tasks autonomously and meet the challenges of this year 2024._
+
 
 Engineering materials
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
+This repository includes all the engineering materials we used to build our robot, Rizitos, for the 2025 season of the WRO Future Engineers competition.
+
+Below is the list of parts we used to assemble our self-driving vehicle:
 
 Materials to build our robot: [`list of electronic components`](https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Listado%20de%20Componentes_2.png)
 * 1 Lego Inventor Large Hub 88016
@@ -21,12 +20,18 @@ Materials to build our robot: [`list of electronic components`](https://github.c
 * 2 Technic Color Sensor 45605
 
 
+Building Instructions
+====
+* **Robot Structure:**
+  - The main idea of  Rizito’s design was developed by us and a source that  we used as a guideline .[`M.V.P`](https://osoyoo.com/manual/sportcarkit.pdf)
+
+
 ## Content
-* [`schemes`](https://github.com/csvprobotica/RoboGenius/tree/main/schemes) contains a schematic diagram in JPG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
-* [`src`](https://github.com/csvprobotica/RoboGenius/tree/main/src) contains code of control software for all components which were programmed to participate in the competition.
-* [`t-photos`](https://github.com/csvprobotica/RoboGenius/tree/main/t-photos) contains 2 photos of the team (an official one and one funny photo with all team members).
-* [`v-photos`](https://github.com/csvprobotica/RoboGenius/tree/main/v-photos) contains 6 photos of the vehicle (from every side, from top and bottom).
-* [`video`](https://github.com/csvprobotica/RoboGenius/tree/main/video) contains the video.mp4 file with the robot driving demonstration.
+* [`schemes`](https://github.com/csvprobotica/RoboGenius/tree/main/schemes) contains an explanatory  diagram in PNG format of the electromechanical components illustrating all the elements (motors, sensors ,etc.) with its connections.
+* [`src`](https://github.com/csvprobotica/RoboGenius/tree/main/src) this record contains all Rizito's Arduino code programming ( which is text-based style) that makes our robot move.
+* [`t-photos`](https://github.com/csvprobotica/RoboGenius/tree/main/t-photos) you'll find Rizito's Team members  official photo.
+* [`v-photos`](https://github.com/csvprobotica/RoboGenius/tree/main/v-photos) in this folder you'll encounter our robot, Rizitos, from 6 different angles.
+* [`video`](https://github.com/csvprobotica/RoboGenius/tree/main/video)  the video shows Rizitos in action, where it completes the whole 3 laps.
 
 ## Mobility and Strategy of our Robot
 
