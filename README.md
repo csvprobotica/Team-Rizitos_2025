@@ -33,7 +33,83 @@ Building Instructions
 * [`v-photos`](https://github.com/csvprobotica/RoboGenius/tree/main/v-photos) in this folder you'll encounter our robot, Rizitos, from 6 different angles.
 * [`video`](https://github.com/csvprobotica/RoboGenius/tree/main/video)  the video shows Rizitos in action, where it completes the whole 3 laps.
 
-## Mobility and Strategy of our Robot
+## Rizito's LEGO-Based Mobility System
+
+## Overview
+
+**Rizito's LEGO model is designed to:**
+- *Evade lateral obstacles*  
+- *Complete three full rotations*  
+- *Stop at its initial position*
+
+It achieves this using:
+- A **motor interface** connected to **D7** (forward) and **D8** (reverse)  
+- A **steering servo** on **D9**  
+- An **ultrasonic scanning servo** on **D10**  
+- An **ultrasonic sensor (HC-SR04)** using **D2 (Trig)** and **D3 (Echo)**  
+
+This configuration enables autonomous navigation, obstacle evasion, and rotation control.
+
+
+##  Key Aspects of Rizito's Mobility
+
+### 1. Continuous Forward Movement
+- The **DC motor** is controlled via a motor interface:
+  - **D7**: forward motion  
+  - **D8**: reverse motion
+- The robot moves forward while the ultrasonic sensor continuously checks for obstacles.
+
+### 2. Lateral Obstacle Evasion
+- The **ultrasonic sensor** is mounted on a **servo (D10)** for horizontal scanning.
+- It is wired as follows:
+  - **D2**: Trigger  
+  - **D3**: Echo  
+  - **SV** and **GND**: Power
+- When an obstacle is detected:
+  - The robot stops (**D7 OFF**)
+  - The servo on **D10** rotates the ultrasonic sensor to scan left and right
+  - Based on the distance readings, the **steering servo** on **D9** turns the robot accordingly
+  - Once a path is clear, it resumes forward movement
+
+### 3. Turning and Navigation
+- The **MG90S servo** on **D9** controls steering
+- The robot turns left or right by adjusting the servo angle
+- After turning, the servo resets to the center for forward motion
+
+### 4. Stopping at the Initial Position
+- The robot completes **three full rotations** (via internal logic)
+- Then:
+  - Sets **D7** and **D8** to LOW  
+  - Centers the steering servo (**D9**)  
+  - Stops at the starting position
+
+
+##  Why These Components?
+
+### • Motor Interface Module (L293D or similar)
+- Controls forward/reverse motion via digital signals  
+- Easy integration into the LEGO chassis  
+
+### • MG90S Micro Servo (Steering - D9)
+- Fast and precise  
+- Suitable for LEGO-based steering structures  
+
+### • Micro Servo (Ultrasonic Rotation - D10)
+- Allows side-to-side scanning  
+- Helps with accurate obstacle detection
+
+### • Ultrasonic Sensor (HC-SR04 - D2 & D3)
+- Affordable, reliable distance measurements  
+- Widely used in autonomous navigation systems  
+
+
+## 🔗 Wiring Diagram
+
+You can view the full wiring setup [here](https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Diagrama%20de%20Conexi%C3%B3n.png).
+
+
+## Key Aspects of R
+
 
 <div style="text-align: center;">
   <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/Robot.jpg" alt="Texto alternativo" width="400"/>
