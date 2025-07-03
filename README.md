@@ -104,11 +104,11 @@ This configuration enables autonomous navigation, obstacle evasion, and rotation
 
 
 
-## Key Aspects of R
+## Rizito's key aspects
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/Robot.jpg" alt="Texto alternativo" width="400"/>
+  <img src="https://github.com/csvprobotica/RG2024/blob/main/v-photos/v3/WhatsApp%20Image%202025-07-03%20at%2007.39.59%20(1).jpeg" alt="Texto alternativo" width="400"/>
 </div>
 
 **Robot Description:**
