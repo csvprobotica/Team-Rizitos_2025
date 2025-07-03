@@ -1,7 +1,7 @@
 Electromechanical diagrams
 ====
 
-This directory contains a [`list of electronic components`](https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Listado%20de%20Componentes_2.png) in which each of the elements used are described and the [`wiring diagram`](https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Diagrama%20de%20Conexi%C3%B3n.png) where all electronic components are connected.
+This directory contains a [`list of electronic components`](https://github.com/csvprobotica/RG2024/blob/main/schemes/PHOTO-2025-07-03-03-04-58.jpg)  a labelled diagram of all connections and ports in our robot. Also in this folder you'll find all Rizito's parts with their respective functions. [`wiring diagram`](https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Diagrama%20de%20Conexi%C3%B3n.png) 
 
 ## List of Electronic Components
 
