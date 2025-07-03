@@ -25,7 +25,7 @@ This folder contains images of Rizitos, our robot, captured from various angles.
 
 ## Top
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Top.jpg" alt="Texto alternativo" width="400"/>
+  <img src="https://github.com/csvprobotica/RG2024/blob/main/v-photos/v3/WhatsApp%20Image%202025-07-03%20at%2007.39.58%20(3).jpeg" alt="Texto alternativo" width="400"/>
 </div>
 
 ## Bottom
