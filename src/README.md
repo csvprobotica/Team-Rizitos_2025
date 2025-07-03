@@ -17,4 +17,6 @@ Part of the block system programming with the Lego Mindstorms application is pre
 
 <div style="text-align: center;">
   <img src="https://github.com/csvprobotica/RG2024/blob/main/src/WhatsApp%20Image%202025-07-03%20at%2003.11.21.jpeg" alt="Texto alternativo" width="700"/>
+   <img src="https://github.com/csvprobotica/RG2024/blob/main/src/WhatsApp%20Image%202025-07-03%20at%2003.13.00.jpeg" alt="Texto alternativo" width="700"/>
 </div>
+
