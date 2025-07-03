@@ -18,7 +18,7 @@ This directory contains photographs from all angles of the robot.
 
 ## Right
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Right.jpg" alt="Texto alternativo" width="400"/>
+  <img src="https://github.com/csvprobotica/RG2024/blob/main/v-photos/v3/WhatsApp%20Image%202025-07-03%20at%2007.39.58%20(1).jpeg" alt="Texto alternativo" width="400"/>
 </div>
 
 ## Top
