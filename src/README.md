@@ -16,5 +16,5 @@ The programming of the robot is done with the Lego Mindstorms application 10.5.0
 Part of the block system programming with the Lego Mindstorms application is presented.
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/src/Block_Program.png" alt="Texto alternativo" width="700"/>
+  <img src="https://github.com/csvprobotica/RG2024/blob/main/src/WhatsApp%20Image%202025-07-03%20at%2003.11.21.jpeg" alt="Texto alternativo" width="700"/>
 </div>
