@@ -1,4 +1,4 @@
-Team's photos
+Team Rizitos
 ====
 
 This folder contains **Team Rizito's official photo**, which highlights our team spirit .
