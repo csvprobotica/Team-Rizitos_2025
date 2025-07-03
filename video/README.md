@@ -1,5 +1,3 @@
 Video
 ====
-
-This directory must contain the video.md file with a URL to YouTube (should be either public or accessible by link) showing the vehicle driving autonomously.
-That part of the video where driving demonstration exists must be at least 30 seconds in length. (VIDEO) https://youtu.be/YHDkgv-h10A
+This  folder shows our robot Rizitos  in action, completing the requirement of 3 laps in the Future Engineers track at the Panama Robotics Olympics WRO 2025.. (VIDEO) https://youtu.be/YHDkgv-h10A
