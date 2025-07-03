@@ -103,10 +103,6 @@ This configuration enables autonomous navigation, obstacle evasion, and rotation
 - Widely used in autonomous navigation systems  
 
 
-## 🔗 Wiring Diagram
-
-You can view the full wiring setup [here](https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Diagrama%20de%20Conexi%C3%B3n.png).
-
 
 ## Key Aspects of R
 
