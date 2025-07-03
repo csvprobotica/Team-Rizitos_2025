@@ -1,6 +1,8 @@
 Vehicle's photos
 ====
-This directory contains photographs from all angles of the robot.
+
+This folder contains images of Rizitos, our robot, captured from various angles. Where it can be seen the various components that it has. 
+
 ## Front
 <div style="text-align: center;">
   <img src="https://github.com/csvprobotica/RoboGenius/blob/main/v-photos/v2/Front.jpg" alt="Texto alternativo" width="400"/>
