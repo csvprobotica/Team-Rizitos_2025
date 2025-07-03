@@ -5,9 +5,12 @@ This directory contains a [`list of electronic components`](https://github.com/c
 
 ## List of Electronic Components
 
+https://github.com/csvprobotica/RG2024/blob/main/schemes/PHOTO-2025-07-03-03-04-58.jpg
+
 <div style="text-align: center;">
-  <img https://github.com/csvprobotica/RG2024/blob/main/schemes/PHOTO-2025-07-03-03-04-58.jpg>
+  <img src="https://github.com/csvprobotica/RG2024/blob/main/schemes/PHOTO-2025-07-03-03-04-58.jpg" alt="Texto alternativo" width="700"/>
 </div>
+
 
 ## Wiring Diagram
 
