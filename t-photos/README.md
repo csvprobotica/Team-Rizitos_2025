@@ -1,7 +1,9 @@
 Team's photos
 ====
 
-This directory must contain 2 photos of the team (an official one and one funny photo with all team members)
+This folder contains **Team Rizito's official photo**, which highlights our team spirit .
+
+Team Rizitos is made up of Flor, Francis, and Hebe, representing Colegio San Vicente de Paúl from Santiago de Veraguas, Panamá in the Future Engineers  Senior's category of the World Robot Olympiad. United by creativity, collaboration, and a passion for robotics, we are proud to showcase our work on this global stage.
 
 ![1](https://github.com/csvprobotica/RoboGenius/blob/main/t-photos/RoboGenius-Normal.jpg)
 ![2](https://github.com/csvprobotica/RoboGenius/blob/main/t-photos/RoboGenius-Funny.jpg)
