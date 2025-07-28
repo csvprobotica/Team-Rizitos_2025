@@ -8,7 +8,7 @@ In this section is presented the  [`list of electronic components`](https://gith
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RG2024/blob/main/schemes/PHOTO-2025-07-03-03-04-58.jpg" alt="Texto alternativo" width="700"/>
+  <img src=https://github.com/csvprobotica/Team-Rizitos_2025./blob/main/schemes/Captura%20de%20pantalla%202025-07-28%20a%20la(s)%2015.36.35.png width="700"/>
 </div>
 
 
