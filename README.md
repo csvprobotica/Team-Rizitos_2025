@@ -40,7 +40,7 @@ The robot is based on a custom-modified chassis and multi-sensor platform. It in
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <img src="./t-photos/rizitos_team.jpg" width="80%" alt="Team Rizitos Group Photo"/>
+      <img src="https://github.com/csvprobotica/Team-Rizitos_2025./blob/main/t-photos/WhatsApp%20Image%202025-07-03%20at%2007.42.20.jpeg" width="80%" alt="Team Rizitos Group Photo"/>
     </td>
   </tr>
   <tr>
