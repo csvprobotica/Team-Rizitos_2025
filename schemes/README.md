@@ -15,5 +15,5 @@ In this section is presented the  [`list of electronic components`](https://gith
 ##  Connection Diagram
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoboGenius/blob/main/schemes/Diagrama%20de%20Conexi%C3%B3n.png" alt="Texto alternativo" width="700"/>
+  <img src="https://github.com/csvprobotica/Team-Rizitos_2025./blob/main/schemes/Captura%20de%20pantalla%202025-07-28%20a%20la(s)%2019.52.05.png" alt="Texto alternativo" width="700"/>
 </div>
