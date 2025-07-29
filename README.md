@@ -45,19 +45,22 @@ The robot is based on a custom-modified chassis and multi-sensor platform. It in
   </tr>
   <tr>
     <td align="center">
+      <b>Hebe Hernández</b><br>
+      Rizito's Documenter 📄<br>
+      <sub>Records Rizito's GitHub repository, diagrams and schemes</sub>
       <b>Francis Mojica</b><br>
       Rizito's Software Programmer 💻<br>
       <sub>Creates Rizito's coding and programming</sub>
     </td>
     <td align="center">
-      <b>Flor Glaize</b><br>
-      Rizito's Mechanical Builder ⚙️<br>
-      <sub>Focuses on Rizito's structure and hardware</sub>
+      <b>Francis Mojica</b><br>
+      Rizito's Software Programmer 💻<br>
+      <sub>Creates Rizito's coding and programming</sub>
     </td>
     <td align="center">
-      <b>Hebe Hernández</b><br>
-      Rizito's Documenter 📄<br>
-      <sub>Records Rizito's GitHub repository, diagrams and schemes</sub>
+         <b>Flor Glaize</b><br>
+      Rizito's Mechanical Builder ⚙️<br>
+      <sub>Focuses on Rizito's structure and hardware</sub>
     </td>
   </tr>
 </table>
