@@ -18,7 +18,7 @@ The renders show every angle of the robot: top, bottom, left, right, front, and 
 
 ###  Front View  
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/Team-Rizitos_2025./blob/main/models/front.png" alt="Front View" width="400"/>
+  <img src="https://github.com/csvprobotica/Team-Rizitos_2025./blob/main/models/v3D/front%203D.png" alt="Front View" width="400"/>
 </div>
 
 ---
