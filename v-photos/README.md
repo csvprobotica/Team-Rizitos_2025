@@ -30,7 +30,7 @@ This folder contains images of Rizitos, our robot, captured from various angles.
 
 ## Bottom
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/Team-Rizitos_2025./blob/main/v-photos/v3./bottom.jpeg" alt="Texto alternativo" width="400"/>
+  <img src="https://github.com/csvprobotica/Team-Rizitos_2025/blob/main/v-photos/v3./bottom%201%20.jpeg" alt="Texto alternativo" width="400"/>
 </div>
 
 
