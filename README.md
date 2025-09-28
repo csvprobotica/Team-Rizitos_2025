@@ -26,7 +26,7 @@ Together, we combine creativity, logic, and persistence to bring Rizitos to life
 ##  Our Robot: **Rizitos**
 
 <p align="center">
-  <img src="https://github.com/csvprobotica/Team-Rizitos_2025./blob/main/v-photos/v3./front.jpeg"/>
+  <img src="https://github.com/csvprobotica/Team-Rizitos_2025/blob/main/v-photos/v3./front%201.jpeg"/>
 </p>
 
 **Rizitos** is our autonomous self-driving robot which is designed to complete 3 laps and overcome a variety of obstacles in the WRO Future Engineers Senior's course.
