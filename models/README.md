@@ -6,7 +6,8 @@ The renders show every angle of the robot: top, bottom, left, right, front, and 
 
 > **Rendering tool used:** DALL·E 3 (OpenAI)
 > 
-> **Please keep in mind theres an color sensor added to Rizitos which is not shown in this 3D model** 
+> **Please keep in mind theres an color sensor added to Rizitos which is not shown in this 3D model**
+> 
 > **Modeling base reference:** Physical LEGO robot manually photographed and translated into a 3D layout inspired by Tinkercad
 
 ---
